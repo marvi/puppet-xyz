@@ -1,0 +1,3 @@
+[submodule "modules/ceph"]
+	path = modules/ceph
+	url = git@github.com:openstack/puppet-ceph.git
