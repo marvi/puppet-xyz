@@ -1,0 +1,9 @@
+.resource_types/
+bolt-debug.log
+modules/apache/
+modules/concat/
+modules/inifile/
+modules/openstacklib/
+modules/stdlib/
+modules/sysctl/
+modules/translate/
