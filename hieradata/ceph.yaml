@@ -1,1 +1,8 @@
 ---
+ceph::profile::params::release: 'nautilus'
+
+xyz::ceph:
+  admin_key: 'AQCTg71RsNIHORAAW+O6FCMZWBjmVfMIPk3MhQ=='
+  mon_key: 'AQDesGZSsC7KJBAAw+W/Z4eGSQGAIbxWjxjvfw=='
+  bootstrap_osd_key: 'AQABsWZSgEDmJhAAkAGSOOAJwrMHrM5Pz5On1A=='
+  fsid: '2024FD8E-3BBD-4EE0-AA6B-E0D11E4122D8'

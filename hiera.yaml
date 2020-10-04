@@ -1,8 +1,8 @@
 ---
 version: 5
 hierarchy:
-  - name: Elasticsearch
-    path: es.yaml
+  - name: Ceph
+    path: ceph.yaml
 defaults:
   data_hash: yaml_data
   datadir: hieradata
