@@ -1,6 +1,7 @@
 .resource_types/
 bolt-debug.log
 modules/apache/
+modules/ceph/
 modules/concat/
 modules/inifile/
 modules/openstacklib/
